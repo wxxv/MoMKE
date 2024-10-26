@@ -29,7 +29,7 @@ For your convenience, we list the feature links below they provide.
 |  Dataset  |                          Task                          |                        Download link                         |
 | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  IEMOCAP  |         Emotion Recognition       | [link](https://drive.google.com/file/d/1Hn82-ZD0CNqXQtImd982YHHi-3gIX2G3/view?usp=share_link)|
-|  CMU-MOSI |          Sentiment Analysi        | [link](https://drive.google.com/file/d/1aJxArYfZsA-uLC0sOwIkjl_0ZWxiyPxj/view?usp=share_link)|
+|  CMU-MOSI |          Sentiment Analysis        | [link](https://drive.google.com/file/d/1aJxArYfZsA-uLC0sOwIkjl_0ZWxiyPxj/view?usp=share_link)|
 |  CMU-MOSEI|          Sentiment Analysis       | [link](https://drive.google.com/file/d/1L6oDbtpFW2C4MwL5TQsEflY1WHjtv7L5/view?usp=share_link)|
 
 ## Acknowledgement
