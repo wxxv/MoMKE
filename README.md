@@ -7,6 +7,9 @@ Correspondence to:
   - Xuefeng Liang (xliang@xidian.edu.cn)
 
 ## Paper
+
+<img src="./figures/MoMKE.png" />
+
 [**Leveraging Knowledge of Modality Experts for Incomplete Multimodal Learning**](https://openreview.net/forum?id=Gt3a8A1wLg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dacmmm.org%2FACMMM%2F2024%2FConference%2FAuthors%23your-submissions))<br>
 Wenxin Xu, Hexin Jiang, Xuefeng Liang<br>
 ACM Multimedia, 2024, 🔥**Best Paper Nomination!**
