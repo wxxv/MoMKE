@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ce096597-8cb1-488f-89f8-9c2f42c16326)# MoMKE
+# MoMKE
 Complete code for **"Leveraging Knowledge of Modality Experts for Incomplete Multimodal Learning"** accepted by *ACM Multimedia 2024* will be released soon！
 
 Correspondence to: 
