@@ -34,18 +34,7 @@ ACM Multimedia, 2024, 🔥**Best Paper Nomination!**
 
 (see requirements.txt for more details)
 
-### Run MoMKE
-
-~~~~shell
-cd MoMKE
-sh run_MoMKE_cmumosi.sh
-
-sh run_MoMKE_cmumosei.sh
-
-sh run_MoMKE_iemocap4.sh
-~~~~
-
-## Dataset
+### Dataset
 
 To ensure consistency with previous work, we followed the feature preprocessing module in [GCNet](https://github.com/zeroQiaoba/GCNet).
 
@@ -56,6 +45,17 @@ For your convenience, we list the feature links below they provide.
 |  IEMOCAP  |         Emotion Recognition       | [link](https://drive.google.com/file/d/1Hn82-ZD0CNqXQtImd982YHHi-3gIX2G3/view?usp=share_link)|
 |  CMU-MOSI |          Sentiment Analysis        | [link](https://drive.google.com/file/d/1aJxArYfZsA-uLC0sOwIkjl_0ZWxiyPxj/view?usp=share_link)|
 |  CMU-MOSEI|          Sentiment Analysis       | [link](https://drive.google.com/file/d/1L6oDbtpFW2C4MwL5TQsEflY1WHjtv7L5/view?usp=share_link)|
+
+### Run MoMKE
+
+~~~~shell
+cd MoMKE
+sh run_MoMKE_cmumosi.sh
+
+sh run_MoMKE_cmumosei.sh
+
+sh run_MoMKE_iemocap4.sh
+~~~~
 
 ## Acknowledgement
 
