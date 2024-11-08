@@ -9,7 +9,7 @@ Correspondence to:
 
 <img src="./figures/MoMKE.png" />
 
-[**Leveraging Knowledge of Modality Experts for Incomplete Multimodal Learning**](https://openreview.net/forum?id=Gt3a8A1wLg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dacmmm.org%2FACMMM%2F2024%2FConference%2FAuthors%23your-submissions))<br>
+[**Leveraging Knowledge of Modality Experts for Incomplete Multimodal Learning**](https://dl.acm.org/doi/10.1145/3664647.3681683)<br>
 Wenxin Xu, Hexin Jiang, Xuefeng Liang<br>
 ACM Multimedia, 2024, **🔥Best Paper Nomination!** and further be honored with **🔥Honourable Mention Award!**
 
