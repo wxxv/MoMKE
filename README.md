@@ -23,7 +23,7 @@ ACM Multimedia, 2024, 🔥**Best Paper Nomination!**
 }
 ```
 
-## Usage (Choose IEMOCAP-Six for Example)
+## Usage
 
 ### Prerequisites
 - Python 3.8
